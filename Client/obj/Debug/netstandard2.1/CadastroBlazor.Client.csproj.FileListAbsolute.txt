@@ -237,7 +237,6 @@ H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\m7Q_cF5-ji3OM
 H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\bSgsT2x5xMvs8mara5wU_EJwcyHa9GVMU85HwhWcdWM=.hash
 H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
 H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\okC5XVUVhglJYarRu8Qkia35ZRSTrER64Vz2gR3_yCA=.hash
-H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\njI1miTlGwcgtQafq19C0o82L4q_LQ9wwvP91I5hDcs=.hash
 H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash
 H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\oK1Bjv95fH_hSbogUkJE_xDAI203kJG6lL6Sm-NuPWg=.hash
 H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\y-FyJQOcW2TOcTp7Iuv8brGBzL5ZP0oJdG7ysK_gtKc=.hash
@@ -251,7 +250,6 @@ H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\DrtNiKIMjfSOd
 H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\_kkwUt5LUrFrnFcHiSvLP3Ps50UAimB6C5utgehqOo4=.hash
 H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
 H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
-H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\RrraI9wMZ7k2cCJJBxGWUbvl2LHelPdfFbdYbZMFusQ=.hash
 H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
@@ -391,8 +389,12 @@ H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\CadastroBlazor.Client.d
 H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\CadastroBlazor.Client.pdb
 H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\blazor\serviceworkers\wwwroot\service-worker.js
 H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\blazor\service-worker-assets.js
-H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\dD4wqWFE5iJq9XB6ZGG3ZjJ95fEHVyZ-F-fFMgwL2cY=.hash
-H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\f27WOWm89mYQdqwOb-sQJFI0_z8Ab4-QYHzyObU7Vm8=.hash
-H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\NwItVaBT8COSXK6BXqfg9nzgbspVJoPY1hiVOBx131Y=.hash
-H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\nke8E7xIM8_ELl_6PMV7jkO-jVMpkdpROAizybMVeR8=.hash
-H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\TePReaOsd63qoxFqE6Je25UWXvN9Ln2QiDhUZQXmzss=.hash
+H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Cadast.razor.g.cs
+H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\Razor\Pages\Cadast.razor.g.cs
+H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\wYBANBy33f8FwfI1CghdvdwtDl-S88GFJsKkDEFy6RU=.hash
+H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\O0yv9wuwX8bWts5b3KXqYnMaKa00POHq0NQNlrLgRU8=.hash
+H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\3ItVGB6yYtgBUbwMCbL1Y8pwFCbc_MtWZ0pQUYWURhA=.hash
+H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\Pup6xJA9GVlXfCENSxQGcqKHlmyNdrM2QrvvrTklzOE=.hash
+H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\xOSJVa-q9ewV0nnzVKcQfKE6PBKGzOuPWTcZYcwvCMw=.hash
+H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\pBed6FtaXBQaHuKvwQvQ4uu6zmZHTXILmJzR48AFf_I=.hash
+H:\GitHub\CadastroBlazor\client\obj\Debug\netstandard2.1\integrity\RGPyRXqjQVqViEvxUMxN9XIvgqIkj8a2vCsKJXEjJqg=.hash

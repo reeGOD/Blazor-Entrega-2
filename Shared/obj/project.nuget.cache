@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RTlGv5iIaN6aKd9N0VGrOpVoxYJ2hB0RwRJ2rUPNwhyelJRYXhkjuvSKwnjkhvTvTYUl+U6/qTqnXUCpsunNQQ==",
+  "dgSpecHash": "8RyPkDwHx8BbYFoItu4tngUWI9DsoFNYwCkbQt13kOSUrtAgwVUCtS6LERfVLfx8/ZL+pNHr9gWCaPVjMDtVjA==",
   "success": true,
   "projectFilePath": "H:\\GitHub\\CadastroBlazor\\Shared\\CadastroBlazor.Shared.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\reGOD\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -81,7 +81,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-f27WOWm89mYQdqwOb\/sQJFI0+z8Ab4\/QYHzyObU7Vm8=",
+      "hash": "sha256-Pup6xJA9GVlXfCENSxQGcqKHlmyNdrM2QrvvrTklzOE=",
       "url": "_framework\/_bin\/CadastroBlazor.Client.dll"
     },
     {
@@ -249,7 +249,7 @@
       "url": "_framework\/_bin\/Blazorise.Bootstrap.dll"
     },
     {
-      "hash": "sha256-njI1miTlGwcgtQafq19C0o82L4q+LQ9wwvP91I5hDcs=",
+      "hash": "sha256-wYBANBy33f8FwfI1CghdvdwtDl\/S88GFJsKkDEFy6RU=",
       "url": "_framework\/_bin\/CadastroBlazor.Shared.dll"
     },
     {
@@ -305,11 +305,11 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-NwItVaBT8COSXK6BXqfg9nzgbspVJoPY1hiVOBx131Y=",
+      "hash": "sha256-xOSJVa\/q9ewV0nnzVKcQfKE6PBKGzOuPWTcZYcwvCMw=",
       "url": "_framework\/_bin\/CadastroBlazor.Client.pdb"
     },
     {
-      "hash": "sha256-RrraI9wMZ7k2cCJJBxGWUbvl2LHelPdfFbdYbZMFusQ=",
+      "hash": "sha256-O0yv9wuwX8bWts5b3KXqYnMaKa00POHq0NQNlrLgRU8=",
       "url": "_framework\/_bin\/CadastroBlazor.Shared.pdb"
     },
     {
@@ -329,9 +329,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-nke8E7xIM8+ELl+6PMV7jkO\/jVMpkdpROAizybMVeR8=",
+      "hash": "sha256-pBed6FtaXBQaHuKvwQvQ4uu6zmZHTXILmJzR48AFf+I=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "T36R1hh\/"
+  "version": "TkoIs3ih"
 };

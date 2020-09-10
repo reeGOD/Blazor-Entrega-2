@@ -8,6 +8,39 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": -714466032,
+        "Kind": "Components.Component",
+        "Name": "CadastroBlazor.Client.App",
+        "AssemblyName": "CadastroBlazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CadastroBlazor.Client.App"
+        }
+      },
+      {
+        "HashCode": -2091454499,
+        "Kind": "Components.Component",
+        "Name": "CadastroBlazor.Client.App",
+        "AssemblyName": "CadastroBlazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CadastroBlazor.Client.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CadastroBlazor.Client.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1305874891,
         "Kind": "Components.Component",
         "Name": "CadastroBlazor.Client.Pages.FetchData",
@@ -37,39 +70,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "CadastroBlazor.Client.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 959921273,
-        "Kind": "Components.Component",
-        "Name": "CadastroBlazor.Client.Pages.Index",
-        "AssemblyName": "CadastroBlazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CadastroBlazor.Client.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -511335775,
-        "Kind": "Components.Component",
-        "Name": "CadastroBlazor.Client.Pages.Index",
-        "AssemblyName": "CadastroBlazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "CadastroBlazor.Client.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CadastroBlazor.Client.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -107,55 +107,68 @@
         }
       },
       {
-        "HashCode": 696981056,
+        "HashCode": 959921273,
         "Kind": "Components.Component",
-        "Name": "CadastroBlazor.Client.Shared.SurveyPrompt",
+        "Name": "CadastroBlazor.Client.Pages.Index",
         "AssemblyName": "CadastroBlazor.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CadastroBlazor.Client.Shared.SurveyPrompt"
+          "Common.TypeName": "CadastroBlazor.Client.Pages.Index"
         }
       },
       {
-        "HashCode": 1905632690,
+        "HashCode": -511335775,
         "Kind": "Components.Component",
-        "Name": "CadastroBlazor.Client.Shared.SurveyPrompt",
+        "Name": "CadastroBlazor.Client.Pages.Index",
         "AssemblyName": "CadastroBlazor.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "CadastroBlazor.Client.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "CadastroBlazor.Client.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CadastroBlazor.Client.Shared.SurveyPrompt",
+          "Common.TypeName": "CadastroBlazor.Client.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1741200560,
+        "Kind": "Components.Component",
+        "Name": "CadastroBlazor.Client.Pages.Cadast",
+        "AssemblyName": "CadastroBlazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Cadast"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CadastroBlazor.Client.Pages.Cadast"
+        }
+      },
+      {
+        "HashCode": -363139587,
+        "Kind": "Components.Component",
+        "Name": "CadastroBlazor.Client.Pages.Cadast",
+        "AssemblyName": "CadastroBlazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CadastroBlazor.Client.Pages.Cadast"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CadastroBlazor.Client.Pages.Cadast",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -289,35 +302,55 @@
         }
       },
       {
-        "HashCode": -714466032,
+        "HashCode": 696981056,
         "Kind": "Components.Component",
-        "Name": "CadastroBlazor.Client.App",
+        "Name": "CadastroBlazor.Client.Shared.SurveyPrompt",
         "AssemblyName": "CadastroBlazor.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CadastroBlazor.Client.App"
+          "Common.TypeName": "CadastroBlazor.Client.Shared.SurveyPrompt"
         }
       },
       {
-        "HashCode": -2091454499,
+        "HashCode": 1905632690,
         "Kind": "Components.Component",
-        "Name": "CadastroBlazor.Client.App",
+        "Name": "CadastroBlazor.Client.Shared.SurveyPrompt",
         "AssemblyName": "CadastroBlazor.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "CadastroBlazor.Client.App"
+            "TagName": "CadastroBlazor.Client.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CadastroBlazor.Client.App",
+          "Common.TypeName": "CadastroBlazor.Client.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -57162,6 +57195,11 @@
     {
       "FilePath": "h:\\GitHub\\CadastroBlazor\\Client\\Shared\\SurveyPrompt.razor",
       "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "h:\\GitHub\\CadastroBlazor\\Client\\Pages\\Cadast.razor",
+      "TargetPath": "Pages\\Cadast.razor",
       "FileKind": "component"
     },
     {

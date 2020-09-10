@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\f27WOWm89mYQdqwOb-sQJFI0_z8Ab4-QYHzyObU7Vm8=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Pup6xJA9GVlXfCENSxQGcqKHlmyNdrM2QrvvrTklzOE=.hash",
       "Source": "H:\\GitHub\\CadastroBlazor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\CadastroBlazor.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/CadastroBlazor.Client.dll.br"
     },
@@ -211,7 +211,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Blazorise.Bootstrap.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\njI1miTlGwcgtQafq19C0o82L4q_LQ9wwvP91I5hDcs=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\wYBANBy33f8FwfI1CghdvdwtDl-S88GFJsKkDEFy6RU=.hash",
       "Source": "H:\\GitHub\\CadastroBlazor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\CadastroBlazor.Shared.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/CadastroBlazor.Shared.dll.br"
     },
@@ -281,12 +281,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\NwItVaBT8COSXK6BXqfg9nzgbspVJoPY1hiVOBx131Y=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\xOSJVa-q9ewV0nnzVKcQfKE6PBKGzOuPWTcZYcwvCMw=.hash",
       "Source": "H:\\GitHub\\CadastroBlazor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\CadastroBlazor.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/CadastroBlazor.Client.pdb.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\RrraI9wMZ7k2cCJJBxGWUbvl2LHelPdfFbdYbZMFusQ=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\O0yv9wuwX8bWts5b3KXqYnMaKa00POHq0NQNlrLgRU8=.hash",
       "Source": "H:\\GitHub\\CadastroBlazor\\client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\CadastroBlazor.Shared.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/CadastroBlazor.Shared.pdb.br"
     },
@@ -311,12 +311,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\nke8E7xIM8_ELl_6PMV7jkO-jVMpkdpROAizybMVeR8=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\pBed6FtaXBQaHuKvwQvQ4uu6zmZHTXILmJzR48AFf_I=.hash",
       "Source": "H:\\GitHub\\CadastroBlazor\\client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\TePReaOsd63qoxFqE6Je25UWXvN9Ln2QiDhUZQXmzss=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\RGPyRXqjQVqViEvxUMxN9XIvgqIkj8a2vCsKJXEjJqg=.hash",
       "Source": "H:\\GitHub\\CadastroBlazor\\client\\obj\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\service-worker-assets.js.br"
     }

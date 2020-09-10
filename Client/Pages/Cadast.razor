@@ -1,0 +1,76 @@
+@page "/cadast"
+@using System
+@using BlazorCadastro.Shared
+
+<h3>Cadastro!</h3>
+
+<EditForm Model="cadastro" OnSubmit="Create">
+    <Table>
+    <div class="form-group">
+    <TableBody> 
+        <TableRow>
+            <TableRowCell>
+                <label>Titulo:</label>
+                    <Select TValue="int">
+                        <SelectItem Value="1">Sr</SelectItem>
+                        <SelectItem Value="2">Sra</SelectItem>
+                    </Select>
+                <ValidationMessage For="@( () => cadastro.Title )" />
+            </TableRowCell>   
+            <TableRowCell>
+                <label>Nome:</label>
+                    <InputText class="form-control" Placeholder= "Digite o nome aqui" @bind-Value="@cadastro.Name" />
+                <ValidationMessage For="@( () => cadastro.Name )" />
+            </TableRowCell>
+            <TableRowCell>
+                <label>Sobrenome:</label>
+                    <InputText class="form-control" Placeholder= "Digite o sobrenome" @bind-Value="@cadastro.Lastname" />
+                <ValidationMessage For="@( () => cadastro.Lastname )" />
+            </TableRowCell>
+        </TableRow>
+        <TableRow>
+            <TableRowCell>
+                <label>Data de Nascimento:</label>
+                    <InputDate class="form-control" Placeholder= "dd/mm/aaaa" @bind-Value="@cadastro.DataNasc" />
+                <ValidationMessage For="@( () => cadastro.DataNasc )" />
+            </TableRowCell>
+            <TableRowCell>
+                <label>E-mail:</label>
+                    <InputText class="form-control" Placeholder= "Digite seu E-mail" @bind-Value="@cadastro.Email" />
+                <ValidationMessage For="@( () => cadastro.Email )" />
+            </TableRowCell>
+        </TableRow>
+        <TableRow>
+            <TableRowCell>
+                <label>Senha:</label>
+                    <InputText type="password" id="Password" name="Password" class="form-control" Placeholder= "Digite sua senha" @bind-Value="@cadastro.Password" />
+                <ValidationMessage For="@( () => cadastro.Password )" />
+            </TableRowCell>
+            <TableRowCell>
+                <label>Confirmar Senha:</label>
+                    <InputText type="password" id="ConfPassword" name="ConfPassword" class="form-control" Placeholder= "Confirme sua senha" @bind-Value="@cadastro.ConfPassword"/>
+                <ValidationMessage For="@( () => cadastro.ConfPassword )" />
+            </TableRowCell>
+        </TableRow>
+    </TableBody>
+    </div>
+    </Table>
+    <div>
+        <Column ColumnSize="ColumnSize.Is2">
+            <Alert Color="Color.Secondary" Visible="true">
+                <Check TValue="bool" @bind-Checked="@cadastro.confirmacao">
+                Aceito os Termos
+                </Check>
+            </Alert>
+        </Column>
+    </div>
+    <button class="btn btn-success" type="submit">Cadastrar</button>
+</EditForm>
+
+@code{
+    Cadastro cadastro = new Cadastro();
+
+    private void Create(){
+        Console.WriteLine("Confirmacao de Cadastro");
+    }
+}

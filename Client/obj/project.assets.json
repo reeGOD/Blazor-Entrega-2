@@ -494,6 +494,9 @@
       "CadastroBlazor.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "System.ComponentModel.Annotations": "4.7.0"
+        },
         "compile": {
           "bin/placeholder/CadastroBlazor.Shared.dll": {}
         },
@@ -1767,6 +1770,7 @@
       "Microsoft.AspNetCore.Components.WebAssembly >= 3.2.1",
       "Microsoft.AspNetCore.Components.WebAssembly.Build >= 3.2.1",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 3.2.1",
+      "System.ComponentModel.Annotations >= 4.7.0",
       "System.Net.Http.Json >= 3.2.0"
     ]
   },
@@ -1830,6 +1834,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[3.2.1, )"
+          },
+          "System.ComponentModel.Annotations": {
+            "target": "Package",
+            "version": "[4.7.0, )"
           },
           "System.Net.Http.Json": {
             "target": "Package",
