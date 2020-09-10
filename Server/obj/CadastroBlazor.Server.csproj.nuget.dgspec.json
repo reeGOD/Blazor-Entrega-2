@@ -1,0 +1,198 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\GitHub\\CadastroBlazor\\Server\\CadastroBlazor.Server.csproj": {}
+  },
+  "projects": {
+    "H:\\GitHub\\CadastroBlazor\\Client\\CadastroBlazor.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\GitHub\\CadastroBlazor\\Client\\CadastroBlazor.Client.csproj",
+        "projectName": "CadastroBlazor.Client",
+        "projectPath": "H:\\GitHub\\CadastroBlazor\\Client\\CadastroBlazor.Client.csproj",
+        "packagesPath": "C:\\Users\\reGOD\\.nuget\\packages\\",
+        "outputPath": "H:\\GitHub\\CadastroBlazor\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\reGOD\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "H:\\GitHub\\CadastroBlazor\\Shared\\CadastroBlazor.Shared.csproj": {
+                "projectPath": "H:\\GitHub\\CadastroBlazor\\Shared\\CadastroBlazor.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\GitHub\\CadastroBlazor\\Server\\CadastroBlazor.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\GitHub\\CadastroBlazor\\Server\\CadastroBlazor.Server.csproj",
+        "projectName": "CadastroBlazor.Server",
+        "projectPath": "H:\\GitHub\\CadastroBlazor\\Server\\CadastroBlazor.Server.csproj",
+        "packagesPath": "C:\\Users\\reGOD\\.nuget\\packages\\",
+        "outputPath": "H:\\GitHub\\CadastroBlazor\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\reGOD\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "H:\\GitHub\\CadastroBlazor\\Client\\CadastroBlazor.Client.csproj": {
+                "projectPath": "H:\\GitHub\\CadastroBlazor\\Client\\CadastroBlazor.Client.csproj"
+              },
+              "H:\\GitHub\\CadastroBlazor\\Shared\\CadastroBlazor.Shared.csproj": {
+                "projectPath": "H:\\GitHub\\CadastroBlazor\\Shared\\CadastroBlazor.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\GitHub\\CadastroBlazor\\Shared\\CadastroBlazor.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\GitHub\\CadastroBlazor\\Shared\\CadastroBlazor.Shared.csproj",
+        "projectName": "CadastroBlazor.Shared",
+        "projectPath": "H:\\GitHub\\CadastroBlazor\\Shared\\CadastroBlazor.Shared.csproj",
+        "packagesPath": "C:\\Users\\reGOD\\.nuget\\packages\\",
+        "outputPath": "H:\\GitHub\\CadastroBlazor\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\reGOD\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

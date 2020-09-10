@@ -1,0 +1,9 @@
+H:\GitHub\CadastroBlazor\Shared\bin\Debug\netstandard2.1\CadastroBlazor.Shared.deps.json
+H:\GitHub\CadastroBlazor\Shared\bin\Debug\netstandard2.1\CadastroBlazor.Shared.dll
+H:\GitHub\CadastroBlazor\Shared\bin\Debug\netstandard2.1\CadastroBlazor.Shared.pdb
+H:\GitHub\CadastroBlazor\Shared\obj\Debug\netstandard2.1\CadastroBlazor.Shared.csprojAssemblyReference.cache
+H:\GitHub\CadastroBlazor\Shared\obj\Debug\netstandard2.1\CadastroBlazor.Shared.AssemblyInfoInputs.cache
+H:\GitHub\CadastroBlazor\Shared\obj\Debug\netstandard2.1\CadastroBlazor.Shared.AssemblyInfo.cs
+H:\GitHub\CadastroBlazor\Shared\obj\Debug\netstandard2.1\CadastroBlazor.Shared.csproj.CoreCompileInputs.cache
+H:\GitHub\CadastroBlazor\Shared\obj\Debug\netstandard2.1\CadastroBlazor.Shared.dll
+H:\GitHub\CadastroBlazor\Shared\obj\Debug\netstandard2.1\CadastroBlazor.Shared.pdb
