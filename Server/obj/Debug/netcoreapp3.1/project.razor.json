@@ -1,5 +1,5 @@
 {
-  "FilePath": "h:\\GitHub\\CadastroBlazor\\Server\\CadastroBlazor.Server.csproj",
+  "FilePath": "h:\\GitHub\\Blazor-Entrega-2\\Server\\CadastroBlazor.Server.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -2875,6 +2875,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "CadastroBlazor.Client.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1741200560,
+        "Kind": "Components.Component",
+        "Name": "CadastroBlazor.Client.Pages.Cadast",
+        "AssemblyName": "CadastroBlazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Cadast"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CadastroBlazor.Client.Pages.Cadast"
+        }
+      },
+      {
+        "HashCode": -363139587,
+        "Kind": "Components.Component",
+        "Name": "CadastroBlazor.Client.Pages.Cadast",
+        "AssemblyName": "CadastroBlazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CadastroBlazor.Client.Pages.Cadast"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CadastroBlazor.Client.Pages.Cadast",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -14706,13 +14739,13 @@
   "RootNamespace": "CadastroBlazor.Server",
   "Documents": [
     {
-      "FilePath": "h:\\GitHub\\CadastroBlazor\\Server\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "h:\\GitHub\\Blazor-Entrega-2\\Server\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "h:\\GitHub\\CadastroBlazor\\Server\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
+      "FilePath": "h:\\GitHub\\Blazor-Entrega-2\\Server\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     }
   ],

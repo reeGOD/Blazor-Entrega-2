@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7C33XMnYw05ZjF6gxp3v2KKURqgRsa53D4X3icapaYwsCaSKvO0yzkzwegVVgC42Ct1sKEn1cDz+VapRVUaB0Q==",
+  "dgSpecHash": "HozzPDeHPizqx4h2XzxPD9WSM4pOlwG7hIyBllFcX8RyvlKbnv8v24WMHpRAS6DYAZux7QdK5v+8LB0U6fEzVQ==",
   "success": true,
-  "projectFilePath": "H:\\GitHub\\CadastroBlazor\\client\\CadastroBlazor.Client.csproj",
+  "projectFilePath": "H:\\GitHub\\Blazor-Entrega-2\\Client\\CadastroBlazor.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\reGOD\\.nuget\\packages\\blazorise\\0.9.1.2\\blazorise.0.9.1.2.nupkg.sha512",
     "C:\\Users\\reGOD\\.nuget\\packages\\blazorise.bootstrap\\0.9.1.2\\blazorise.bootstrap.0.9.1.2.nupkg.sha512",

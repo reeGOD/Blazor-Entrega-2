@@ -1,5 +1,5 @@
 {
-  "FilePath": "h:\\GitHub\\CadastroBlazor\\Client\\CadastroBlazor.Client.csproj",
+  "FilePath": "h:\\GitHub\\Blazor-Entrega-2\\Client\\CadastroBlazor.Client.csproj",
   "Configuration": {
     "ConfigurationName": "Default",
     "LanguageVersion": "3.0",
@@ -41,39 +41,6 @@
         }
       },
       {
-        "HashCode": 1305874891,
-        "Kind": "Components.Component",
-        "Name": "CadastroBlazor.Client.Pages.FetchData",
-        "AssemblyName": "CadastroBlazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CadastroBlazor.Client.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -2010854746,
-        "Kind": "Components.Component",
-        "Name": "CadastroBlazor.Client.Pages.FetchData",
-        "AssemblyName": "CadastroBlazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "CadastroBlazor.Client.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "CadastroBlazor.Client.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1493341848,
         "Kind": "Components.Component",
         "Name": "CadastroBlazor.Client.Pages.Counter",
@@ -103,6 +70,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "CadastroBlazor.Client.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1305874891,
+        "Kind": "Components.Component",
+        "Name": "CadastroBlazor.Client.Pages.FetchData",
+        "AssemblyName": "CadastroBlazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CadastroBlazor.Client.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": -2010854746,
+        "Kind": "Components.Component",
+        "Name": "CadastroBlazor.Client.Pages.FetchData",
+        "AssemblyName": "CadastroBlazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CadastroBlazor.Client.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "CadastroBlazor.Client.Pages.FetchData",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -57183,48 +57183,48 @@
   "RootNamespace": "CadastroBlazor.Client",
   "Documents": [
     {
-      "FilePath": "h:\\GitHub\\CadastroBlazor\\Client\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "h:\\GitHub\\CadastroBlazor\\Client\\Pages\\Index.razor",
-      "TargetPath": "Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "h:\\GitHub\\CadastroBlazor\\Client\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "h:\\GitHub\\CadastroBlazor\\Client\\Pages\\Cadast.razor",
+      "FilePath": "h:\\GitHub\\Blazor-Entrega-2\\Client\\Pages\\Cadast.razor",
       "TargetPath": "Pages\\Cadast.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "h:\\GitHub\\CadastroBlazor\\Client\\Shared\\MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
+      "FilePath": "h:\\GitHub\\Blazor-Entrega-2\\Client\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "h:\\GitHub\\CadastroBlazor\\Client\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "h:\\GitHub\\CadastroBlazor\\Client\\_Imports.razor",
+      "FilePath": "h:\\GitHub\\Blazor-Entrega-2\\Client\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
     },
     {
-      "FilePath": "h:\\GitHub\\CadastroBlazor\\Client\\App.razor",
+      "FilePath": "h:\\GitHub\\Blazor-Entrega-2\\Client\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "h:\\GitHub\\Blazor-Entrega-2\\Client\\Pages\\Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "h:\\GitHub\\Blazor-Entrega-2\\Client\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "h:\\GitHub\\Blazor-Entrega-2\\Client\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "h:\\GitHub\\Blazor-Entrega-2\\Client\\App.razor",
       "TargetPath": "App.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "h:\\GitHub\\CadastroBlazor\\Client\\Shared\\NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
+      "FilePath": "h:\\GitHub\\Blazor-Entrega-2\\Client\\Pages\\FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
       "FileKind": "component"
     }
   ],

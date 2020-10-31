@@ -7,47 +7,33 @@ namespace BlazorCadastro.Shared
 {
     public class Cadastro
     {
-        [Required (ErrorMessage = "Titulo Obrigatorio")]
-        
+        [Required]
         public int Title { get; set; }
-        
-        [Required (ErrorMessage = "Nome Obrigatorio")]
 
+        [Required]
         public string Name { get; set; }
         
-        [Required (ErrorMessage = "Sobrenome Obrigatorio")]
-
+        [Required]
         public string Lastname { get; set; }
         
-        [DisplayFormat(DataFormatString = "mm/dd/yyyy")]
-
+        [Required]
         public DateTime DataNasc { get; set; }
 
-        [DataType(DataType.EmailAddress)]
-
-        [EmailAddress(ErrorMessage="Digite um e-mail valido")]
+        [Required]
+        [EmailAddress]
         public string Email { get; set; }
 
         [Required]
-
-        [DataType(DataType.Password)]
-
-        [StringLength(30,MinimumLength=8)]
-
-        [Display(Name = "Password")]
-
+        [MinLength(8, ErrorMessage = "Mínimo de 8 caracteres")]
         public string Password { get; set; }
-        
+
         [Required]
-
-        [DataType(DataType.Password)]
-
-        [StringLength(30,MinimumLength=8)]
-
-        [Display(Name = "Passord")] 
-
+        [Compare("Password", ErrorMessage = "Senha tem que ta igual a outra")]
         public string ConfPassword { get; set; }
 
+        [Required]
+        [Range(typeof(bool), "true", "true", ErrorMessage = "Aceitar os termos é obrigatório")]
         public bool confirmacao { get; set; }
+
     }
 }

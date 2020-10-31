@@ -4,7 +4,8 @@
 
 <h3>Cadastro!</h3>
 
-<EditForm Model="cadastro" OnSubmit="Create">
+<EditForm Model="cadastro" OnValidSubmit="Create">
+    <DataAnnotationsValidator/>
     <Table>
     <div class="form-group">
     <TableBody> 

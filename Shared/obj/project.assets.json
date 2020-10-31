@@ -115,11 +115,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\GitHub\\CadastroBlazor\\shared\\CadastroBlazor.Shared.csproj",
+      "projectUniqueName": "H:\\GitHub\\Blazor-Entrega-2\\Shared\\CadastroBlazor.Shared.csproj",
       "projectName": "CadastroBlazor.Shared",
-      "projectPath": "H:\\GitHub\\CadastroBlazor\\shared\\CadastroBlazor.Shared.csproj",
+      "projectPath": "H:\\GitHub\\Blazor-Entrega-2\\Shared\\CadastroBlazor.Shared.csproj",
       "packagesPath": "C:\\Users\\reGOD\\.nuget\\packages\\",
-      "outputPath": "H:\\GitHub\\CadastroBlazor\\shared\\obj\\",
+      "outputPath": "H:\\GitHub\\Blazor-Entrega-2\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\reGOD\\AppData\\Roaming\\NuGet\\NuGet.Config"

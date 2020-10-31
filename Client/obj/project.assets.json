@@ -1780,11 +1780,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\GitHub\\CadastroBlazor\\client\\CadastroBlazor.Client.csproj",
+      "projectUniqueName": "H:\\GitHub\\Blazor-Entrega-2\\Client\\CadastroBlazor.Client.csproj",
       "projectName": "CadastroBlazor.Client",
-      "projectPath": "H:\\GitHub\\CadastroBlazor\\client\\CadastroBlazor.Client.csproj",
+      "projectPath": "H:\\GitHub\\Blazor-Entrega-2\\Client\\CadastroBlazor.Client.csproj",
       "packagesPath": "C:\\Users\\reGOD\\.nuget\\packages\\",
-      "outputPath": "H:\\GitHub\\CadastroBlazor\\client\\obj\\",
+      "outputPath": "H:\\GitHub\\Blazor-Entrega-2\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\reGOD\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1798,8 +1798,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "H:\\GitHub\\CadastroBlazor\\Shared\\CadastroBlazor.Shared.csproj": {
-              "projectPath": "H:\\GitHub\\CadastroBlazor\\Shared\\CadastroBlazor.Shared.csproj"
+            "H:\\GitHub\\Blazor-Entrega-2\\Shared\\CadastroBlazor.Shared.csproj": {
+              "projectPath": "H:\\GitHub\\Blazor-Entrega-2\\Shared\\CadastroBlazor.Shared.csproj"
             }
           }
         }

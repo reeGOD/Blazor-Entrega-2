@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8RyPkDwHx8BbYFoItu4tngUWI9DsoFNYwCkbQt13kOSUrtAgwVUCtS6LERfVLfx8/ZL+pNHr9gWCaPVjMDtVjA==",
+  "dgSpecHash": "qXyr/1V4ZQQITNZaPMS5kjoUH1lvtF7w2h00fwkHgAhfhONao0k1QqSr1VmvfWdFrsMjwlLfFZ5PT3ucVsVrQQ==",
   "success": true,
-  "projectFilePath": "H:\\GitHub\\CadastroBlazor\\Shared\\CadastroBlazor.Shared.csproj",
+  "projectFilePath": "H:\\GitHub\\Blazor-Entrega-2\\Shared\\CadastroBlazor.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\reGOD\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],
